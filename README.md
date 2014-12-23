@@ -8,6 +8,7 @@ Vim >=7.4
 Install
 ===
 ```
+git clone git@github.com:lifeamit/Vim.git
 chmod +x bin/install.sh && ./bin/install.sh
 ```
 
