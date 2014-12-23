@@ -9,7 +9,7 @@ Install
 ===
 chmod +x bin/install.sh && ./bin/install.sh
 
-Updaet Plugins
+Update Plugins
 ===
 :PluginUpdate
 
