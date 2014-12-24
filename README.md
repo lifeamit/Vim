@@ -1,6 +1,12 @@
 Vim
 ===
 
+About
+===
+This is Amit Agarwal's vim setup repository and contains installation file to
+replicate Amit's latest vim setup at any unix based machine. To setup, please
+follow installation instructions given below.
+
 Prerequisites
 ===
 Vim >=7.4
